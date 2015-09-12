@@ -1,2 +1,2 @@
 # javascript
-this contains javascript programs for easier use and references
+this contains javascript programs and its frameworks for easier use and references
